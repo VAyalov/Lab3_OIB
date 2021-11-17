@@ -1,1 +1,1 @@
-# Lab3_OIB
+Task: To develop an api-client for handling user actions and error handling, which uploads an image to the server, receives a modified image or an error message from the server.
